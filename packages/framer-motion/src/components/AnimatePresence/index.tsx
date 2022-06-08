@@ -101,9 +101,7 @@ function splitChildrenByKeys(
  *
  * @public
  */
-export const AnimatePresence: React.FunctionComponent<
-    React.PropsWithChildren<AnimatePresenceProps>
-> = ({
+export const AnimatePresence: React.FunctionComponent<React.PropsWithChildren<AnimatePresenceProps>> = ({
     children,
     custom,
     initial = true,
