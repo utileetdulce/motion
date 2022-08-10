@@ -3,12 +3,13 @@ node_modules
 .DS_Store
 /tsc
 /tmp
+.yarn/cache/*
 yarn-error.log
 /test_reports
 /temp
 /types
 /packages/*/types
-/packages/*/dist
+/packages/*/lib
 /packages/*/tsc
 /packages/*/junit.xml
 /packages/*/tmp
