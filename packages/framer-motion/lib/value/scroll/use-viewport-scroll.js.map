@@ -1,0 +1,1 @@
+{"version":3,"file":"use-viewport-scroll.js","sourceRoot":"","sources":["../../../src/value/scroll/use-viewport-scroll.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,uBAAuB,CAAA;AAChD,OAAO,EAAE,SAAS,EAAE,MAAM,eAAe,CAAA;AAEzC;;GAEG;AACH,MAAM,UAAU,iBAAiB;IAC7B,QAAQ,CAAC,KAAK,EAAE,0DAA0D,CAAC,CAAA;IAC3E,OAAO,SAAS,EAAE,CAAA;AACtB,CAAC"}

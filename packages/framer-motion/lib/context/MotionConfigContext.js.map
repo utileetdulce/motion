@@ -1,0 +1,1 @@
+{"version":3,"file":"MotionConfigContext.js","sourceRoot":"","sources":["../../src/context/MotionConfigContext.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,OAAO,CAAA;AAmCrC;;GAEG;AACH,MAAM,CAAC,IAAM,mBAAmB,GAAG,aAAa,CAAsB;IAClE,kBAAkB,EAAE,UAAC,CAAC,IAAK,OAAA,CAAC,EAAD,CAAC;IAC5B,QAAQ,EAAE,KAAK;IACf,aAAa,EAAE,OAAO;CACzB,CAAC,CAAA"}

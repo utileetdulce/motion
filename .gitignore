@@ -8,7 +8,6 @@ yarn-error.log
 /temp
 /types
 /packages/*/types
-/packages/*/lib
 /packages/*/dist
 /packages/*/tsc
 /packages/*/junit.xml
